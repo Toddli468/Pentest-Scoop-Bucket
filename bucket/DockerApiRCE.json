@@ -12,7 +12,7 @@
     },
     "url": "https://github.com/0xchang/DockerApiRCE/releases/download/v0.1/DockerApiRCE.jar",
     "hash": "",
-    "bin":"VRV-Tools.bat",
+    "bin":"",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/0xchang/DockerApiRCE/releases/download/v$version/DockerApiRCE.jar"
